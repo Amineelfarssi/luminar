@@ -1,4 +1,3 @@
-import React from 'react';
 import { Cable, Globe, Users, TrendingUp } from 'lucide-react';
 
 const Benefits = () => {
